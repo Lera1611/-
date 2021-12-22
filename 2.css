@@ -1,0 +1,14 @@
+h1{color:green;}
+body {font-size: 21px; 
+	font-family: Arial; 
+	text-indent: 160px; 
+	background: url("https://searchthisweb.com/wallpaper/thumb1000/main1000_pelican-island_5120x3200_t2dqa.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+</h1>
+p > span {font: italic bold 21px Arial}
+a{text-decoration: none;}
+a:hover{background-color: purple;}
+img {position: relative; left: 40px; border: 15px dashed blue; margin: 45px 45px 45px 160px;}
